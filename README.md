@@ -49,14 +49,6 @@ The XGBoost model achieved the best overall results after hyperparameter tuning.
 | R² | 0.8451 |
 | RMSLE | 0.2614 |
 | MAPE | 20.29% |
-
-## Future Improvements
-
-- Feature engineering for better handling of missing values  
-- Model stacking and ensemble blending  
-- Integration with an interactive dashboard for price predictions  
-
-
 ## License
 
 This project is released under the MIT License.
