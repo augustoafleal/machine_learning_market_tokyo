@@ -49,6 +49,3 @@ The XGBoost model achieved the best overall results after hyperparameter tuning.
 | R² | 0.8451 |
 | RMSLE | 0.2614 |
 | MAPE | 20.29% |
-## License
-
-This project is released under the MIT License.
